@@ -1,13 +1,14 @@
 /* App.css */
 :root {
-  --primary: #3a86ff;
-  --secondary: #8338ec;
-  --accent: #ff006e;
+  /* Colores inspirados en UCEVA */
+  --primary: #1e8f3e;    /* verde institucional (principal) */
+  --secondary: #0b6b2a;  /* verde oscuro */
+  --accent: #4fb7ff;     /* azul cielo para acentos */
   --light: #f8f9fa;
   --dark: #212529;
-  --success: #38b000;
+  --success: #2fa44f;
   --warning: #ffbe0b;
-  --danger: #ef476f;
+  --danger: #e63946;
   --gray: #6c757d;
   --transition: all 0.3s ease;
 }
@@ -53,12 +54,12 @@ body {
 }
 
 .btn-primary {
-  background: var(--accent);
+  background: var(--primary);
   color: white;
 }
 
 .btn-primary:hover {
-  background: #d10058;
+  background: var(--secondary);
   transform: translateY(-2px);
 }
 

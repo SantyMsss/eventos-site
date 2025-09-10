@@ -8,7 +8,7 @@ const Header = () => {
       <div className="container header-content">
         <div className="logo">
           <i className="fas fa-graduation-cap"></i>
-          <span>Eventos Universitarios</span>
+          <span>Eventos Uceva</span>
         </div>
         <nav>
           <ul>

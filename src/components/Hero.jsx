@@ -17,7 +17,7 @@ const Hero = () => {
   return (
     <section className="hero">
       <div className="container">
-        <h1>Encuentra los mejores eventos universitarios</h1>
+        <h1>Encuentra los mejores Eventos Uceva</h1>
         <p>Conferencias, talleres, actividades culturales y mucho más. ¡No te pierdas nada de lo que pasa en tu universidad!</p>
         <div className="search-box">
           <input 

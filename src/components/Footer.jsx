@@ -20,7 +20,7 @@ const Footer = () => {
       <div className="container">
         <div className="footer-content">
           <div className="footer-column">
-            <h3>Eventos Universitarios</h3>
+            <h3>Eventos Uceva</h3>
             <p>La plataforma líder para descubrir y promocionar eventos en el ámbito universitario.</p>
             <div className="social-icons">
               <a href="#"><i className="fab fa-facebook-f"></i></a>
@@ -62,7 +62,7 @@ const Footer = () => {
           </div>
         </div>
         <div className="copyright">
-          <p>&copy; 2023 Eventos Universitarios. Todos los derechos reservados.</p>
+          <p>&copy; 2023 Eventos Uceva. Todos los derechos reservados.</p>
         </div>
       </div>
     </footer>

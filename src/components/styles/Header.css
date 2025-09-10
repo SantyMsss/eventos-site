@@ -1,6 +1,6 @@
 /* components/styles/Header.css */
 header {
-  background: linear-gradient(135deg, var(--primary), var(--secondary));
+  background: linear-gradient(135deg, var(--primary), var(--accent));
   color: white;
   padding: 1rem 0;
   position: sticky;

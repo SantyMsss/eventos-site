@@ -20,7 +20,7 @@ const Footer = () => {
       <div className="container">
         <div className="footer-content">
           <div className="footer-column">
-            <h3>Eventos Uceva</h3>
+            <h3>Eventos Ingenieria</h3>
             <p>La plataforma líder para descubrir y promocionar eventos en el ámbito universitario.</p>
             <div className="social-icons">
               <a href="#"><i className="fab fa-facebook-f"></i></a>

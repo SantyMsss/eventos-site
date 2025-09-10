@@ -19,10 +19,7 @@ const Header = () => {
             <li><a href="#">Contacto</a></li>
           </ul>
         </nav>
-        <div className="auth-buttons">
-          <button className="btn btn-outline">Iniciar Sesión</button>
-          <button className="btn btn-primary">Registrarse</button>
-        </div>
+        
       </div>
     </header>
   );
